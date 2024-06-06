@@ -1,0 +1,16 @@
+employees
+
+INSERT INTO employees (e_id, e_name, e_type, primary_specialization, secondary_specialization, location, password)
+VALUES ('Emp_01', 'Dr. John Smith', 'Doctor', 'Cardiology', 'Internal Medicine', 'Cardiology', 'password123');
+
+INSERT INTO employees (e_id, e_name, e_type, primary_specialization, secondary_specialization, location, password)
+VALUES ('Emp_02', 'Sarah Lee', 'Nurse', 'Pediatrics', 'Neonatal Care', 'Pediatrics', 'password456');
+
+INSERT INTO employees (e_id, e_name, e_type, primary_specialization, secondary_specialization, location, password)
+VALUES ('Emp_03', 'James Kim', 'Radiology Technician', 'MRI Scanning', 'CT Scanning', 'Radiology', 'password789');
+
+INSERT INTO employees (e_id, e_name, e_type, primary_specialization, secondary_specialization, location, password)
+VALUES ('Emp_04', 'Lisa Chen', 'Pharmacist', 'Oncology', 'Geriatrics', 'Oncology', 'passwordabc');
+
+INSERT INTO employees (e_id, e_name, e_type, primary_specialization, secondary_specialization, location, password)
+VALUES ('Emp_05', 'Michael Davis', 'Admin Assistant', 'Medical Billing and Coding', 'Medical Transcription', 'Medical Records', 'passworddef');
