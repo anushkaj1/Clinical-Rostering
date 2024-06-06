@@ -1,6 +1,6 @@
 # Clinical Rostering
 
-This project was made for [CloudPhysician](https://www.cloudphysician.net/) in collaboration with my teammates [Faizal Karim](https://github.com/FaizalKarim280280), [Utsav Shekhar](https://github.com/utsav-shekhar) and [Nandini Maroo]().
+This project was made for [CloudPhysician](https://www.cloudphysician.net/) in collaboration with my teammates [Faizal Karim](https://github.com/FaizalKarim280280), [Utsav Shekhar](https://github.com/utsav-shekhar) and [Nandini Maroo]() as part of the course Design and Analysis of Software Systems offered at our institute.
 
 In the project directory, you can run:
 
